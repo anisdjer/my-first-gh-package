@@ -1,0 +1,23 @@
+{
+  "name": "@anisdjer/my-first-gh-package",
+  "version": "1.0.0",
+  "description": "Test github npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisdjer/my-first-gh-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anisdjer/my-first-gh-package/issues"
+  },
+  "homepage": "https://github.com/anisdjer/my-first-gh-package#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
